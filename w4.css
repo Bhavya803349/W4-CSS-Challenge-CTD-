@@ -12,3 +12,15 @@ h1 {
 img {
 	float: right;
 }
+a:link {
+	color: #66CCFF;
+	background-color: #FFCCFF;
+}
+a:hover {
+	color: #660099;
+	background-color: #FFCCFF;
+}
+a:visited {
+	color: #CCOOOO;
+	background-color: #FFCCFF;
+}
