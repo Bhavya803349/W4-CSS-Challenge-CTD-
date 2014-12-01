@@ -2,17 +2,14 @@
 /* Sample CSS Document */
 
 #eagleLogo {
-
+	float: right;
 }
 
 h1 {
 	color: green;
 }
 
-<<<<<<< HEAD
-img {
-	float: right;
-}
+
 a:link {
 	color: #66CCFF;
 	font-size: 200%;
@@ -26,13 +23,9 @@ a:visited {
 	color: #CCOOOO;
 	font-size: 200%;
 }
+
 .eslrTitle {
+	color: #3399FF;	
 	font-weight: bold;
-	color: red;
-=======
-.eslrTitle {
-	color: red;	
-	font-weight: bold;
-	font-family: mistral;
->>>>>>> Bhavya
+	font-family: tahoma;
 }
