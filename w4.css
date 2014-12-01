@@ -2,23 +2,12 @@
 /* Sample CSS Document */
 
 #eagleLogo {
-
+float: right;
 }
-
 h1 {
 color: green;
 
 }
-
-<<<<<<< HEAD
-.eslrTitle {
-color: red;
-font-size: 20px;
-}
-
-#eagleLogo {
-float: right;
-=======
 img {
 	float: right;
 }
@@ -38,5 +27,4 @@ a:visited {
 .eslrTitle {
 	font-weight: bold;
 	color: red;
->>>>>>> Vanessa-Tang-CTD-1
 }
