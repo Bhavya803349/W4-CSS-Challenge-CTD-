@@ -14,13 +14,18 @@ img {
 }
 a:link {
 	color: #66CCFF;
-	background-color: #FFCCFF;
+	font-size: 200%;
 }
 a:hover {
 	color: #660099;
 	background-color: #FFCCFF;
+	font-size: 200%;
 }
 a:visited {
 	color: #CCOOOO;
-	background-color: #FFCCFF;
+	font-size: 200%;
+}
+.eslrTitle {
+	font-weight: bold;
+	color: red;
 }
