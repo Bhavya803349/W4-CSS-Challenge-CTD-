@@ -10,6 +10,7 @@ color: green;
 
 }
 
+<<<<<<< HEAD
 .eslrTitle {
 color: red;
 font-size: 20px;
@@ -17,4 +18,25 @@ font-size: 20px;
 
 #eagleLogo {
 float: right;
+=======
+img {
+	float: right;
+}
+a:link {
+	color: #66CCFF;
+	font-size: 200%;
+}
+a:hover {
+	color: #660099;
+	background-color: #FFCCFF;
+	font-size: 200%;
+}
+a:visited {
+	color: #CCOOOO;
+	font-size: 200%;
+}
+.eslrTitle {
+	font-weight: bold;
+	color: red;
+>>>>>>> Vanessa-Tang-CTD-1
 }
