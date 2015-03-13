@@ -14,3 +14,7 @@ h1 {
 	font-weight: bold;
 	font-family: mistral;
 }
+
+a:hover {
+	background-color: red;
+}
